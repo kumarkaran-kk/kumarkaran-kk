@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Karan kumar, a passionate web developer currently pursuing a Bachelor's degree in Computer Applications. With a keen interest in crafting exceptional online experiences, I have honed my skills in web development, specializing in HTML, CSS, JavaScript, PHP and MySQL.
+I'm Karan kumar, a WordPress Development Professional with 1.5 Year of Experience in WordPress and Shopify, Skilled in Building, Customizing, and Optimizing Websites with Custom Functionalities, SEO, and Performance Enhancements.
 
 ## 🚀 Skills
 
